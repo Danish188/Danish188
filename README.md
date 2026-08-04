@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Danish Elahi 👋
 
-<!--
-**Danish188/Danish188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student who builds full-stack applications end-to-end — from database design and REST APIs to frontend interfaces and CI/CD pipelines.
 
-Here are some ideas to get you started:
+## 💡 About Me
+I'm currently focused on backend architecture and clean, maintainable code design, while also exploring data science on the side. I enjoy turning ideas into working products, from REST APIs to deployment pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tech Stack
+
+**Backend:** C#, ASP.NET Core, Entity Framework Core, RESTful API design, Clean Architecture, SQL Server
+
+**Frontend:** React, TypeScript, Vite
+
+**DevOps:** Docker, CI/CD with GitHub Actions, Git
+
+**Other Interests:** Data Science (Kaggle)
+
+## 📌 Featured Projects
+
+- **[cicdemo](https://github.com/Danish188/cicdemo)** — A C# project demonstrating automated CI/CD pipelines with GitHub Actions and Docker.
+- **[Personal Website](https://danish188.github.io)** — My personal site.
+ 
+## 🌐 Connect With Me
+- LinkedIn: [danish-elahi](https://linkedin.com/in/danish-elahi)
+- Kaggle: [danishelahi](https://www.kaggle.com/danishelahi)
