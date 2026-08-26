@@ -14,11 +14,6 @@ I'm currently focused on backend architecture and clean, maintainable code desig
 **DevOps:** Docker, CI/CD with GitHub Actions, Git
 
 **Other Interests:** Data Science (Kaggle)
-
-## 📌 Featured Projects
-
-- **[cicdemo](https://github.com/Danish188/cicdemo)** — A C# project demonstrating automated CI/CD pipelines with GitHub Actions and Docker.
-- **[Personal Website](https://danish188.github.io)** — My personal site.
  
 ## 🌐 Connect With Me
 - LinkedIn: [danish-elahi](https://linkedin.com/in/danish-elahi)
